@@ -1,9 +1,3 @@
----
-title: Projects
-created: '2020-11-22T01:30:48.647Z'
-modified: '2020-11-22T02:28:05.097Z'
----
-
 # Projects
 
 ## Astro/Physics
